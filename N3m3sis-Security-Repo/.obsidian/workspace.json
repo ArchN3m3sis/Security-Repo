@@ -11,8 +11,12 @@
             "id": "8eb9fb8d9d7e1c49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Secure Password Management Database/Proton Pass.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Secure Password Management Database/Proton Pass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Secure Password Management Database/Proton Pass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Secure Password Management Database/Proton Pass.md"
+              }
             }
           }
         ]
@@ -140,6 +148,10 @@
   },
   "active": "8eb9fb8d9d7e1c49",
   "lastOpenFiles": [
+    "Key Manageent Database/Proton Mail Key Storage.md",
+    "Secure Password Management Database/Proton Pass.md",
+    "Secure Password Management Database",
+    "Key Manageent Database",
     "Github Authentication/Github Access Tokens.md",
     "ADMIN - Package Management/APT Package Manager Explicitly Installed (Manual)/Aggregated Listing Of Currently Installed Packages.md",
     "ADMIN - Personal Access Tokens/Github Personal Access Token Administration.md",
@@ -162,11 +174,9 @@
     "ADMIN - Package Management/APT Package Manager Explicitly Installed (Manual)",
     "ADMIN - Package Management/App Image Installations",
     "ADMIN - Package Management/Snap Installations",
-    "Github Authentication",
     "Github Course For Beginners/Your Personal Dashboard.md",
     "Github Course For Beginners/Inspiration On Github.md",
     "Github Course For Beginners/GitHub 'Hello World' Tutorial.md",
-    "Github Course For Beginners",
     "How To Work With Github/How To Use Github.md"
   ]
 }
